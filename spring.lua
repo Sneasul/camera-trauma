@@ -1,7 +1,5 @@
 --[[
-    open-sourced
-
-    original author: Quenty
+	Quenty
 ]]--
 
 local Spring = {}

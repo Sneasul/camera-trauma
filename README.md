@@ -1,5 +1,4 @@
-
-https://user-images.githubusercontent.com/80429347/110708142-2e130800-81f2-11eb-8ac0-cbb6d5cc3e5f.mp4
+![shake](https://user-images.githubusercontent.com/80429347/110708553-c3160100-81f2-11eb-8dd1-a55c4da192c4.gif)
 
 # camera-trauma
 Camera shake based on perlin noise.
